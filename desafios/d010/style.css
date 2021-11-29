@@ -1,0 +1,175 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'android';
+    src: url('fontes/idroid.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    background-color: #5AFAA5;
+}
+
+header {
+    padding: 10px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    background-image: linear-gradient(#16AC5D, #0D6134);
+}
+
+header > h1 {
+    margin: 15px;
+    text-align: center;
+    color: white;
+}
+
+header > p {
+    text-align: center;
+    color: white;
+    width: 400px;
+    height: 40px;
+    margin: auto;
+}
+
+header > nav > a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 15px;
+
+} 
+
+header > nav > a:hover {
+    text-decoration: underline;
+}
+
+main {
+    background-color: white;
+    width: 800px;
+    height: auto;
+    margin: auto;
+    padding: 30px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+#Bloco1 > h1 {
+    font-family: 'android', Arial, Helvetica, sans-serif;
+    color: #37614B;
+    margin: 0px;
+    font-size: 2em;
+    padding-left: 15px;
+}
+
+p {
+    text-align: justify;   
+}
+
+span {
+    color: #37614B;
+    font-weight: bold;
+}
+
+#Bloco2 > p > a {
+    color: #37614B;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#Bloco2 > p > a:hover {
+    text-decoration: underline;
+}
+
+h2 {
+    font-family: 'android', Arial, Helvetica, sans-serif;
+    color: #37614B;
+    background-image: linear-gradient(to right, #16ac5c46, #ffffff);
+    padding-left: 15px;
+}
+
+#Bloco3 > p > a {
+    color: #37614B;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#Bloco3 > p > a:hover {
+    text-decoration: underline;
+}
+
+#Bloco3 > div {
+    width: 300px;
+    margin: auto;
+}
+
+#video {
+    background-color: #37614B;
+    width: 860px;
+    height: 415px;
+    margin: auto;
+}
+
+iframe {
+    margin-top: 50px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+    margin-left: 150px;
+}
+
+#Bloco4 {
+    background-color: white;
+    width: 800px;
+    height: auto;
+    margin: auto;
+    padding: 30px;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+
+#Bloco4 > article {
+    background-color: #37614B;
+    padding: 0px;
+    border-radius: 15px;
+}
+
+#Bloco4 > article > h3 {
+    color: white;
+    padding: 15px;
+    margin: 0px;
+}
+
+#Bloco4 > article > div {
+    background-color: #85ffbe;
+    padding: 15px;
+    margin: 0px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+#Bloco4 > article > div > p {
+    margin: 0px;
+}
+
+#Bloco4 > article > div > p > a {
+    color: #37614B;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#Bloco4 > article > div > p > a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    padding: 5px;
+    margin-top: 20px;
+    background-color: #37614B;
+    color: white;
+}
+
+footer > p {
+    margin: 0px;
+    text-align: center;
+}
