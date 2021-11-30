@@ -7,7 +7,7 @@
 - [Exercício 03](https://vxgnxx.github.io/html-css/exercícios/ex003)
 - [Exercício 04](https://vxgnxx.github.io/html-css/exercícios/ex004)
 - [Exercício 06](https://vxgnxx.github.io/html-css/exercícios/ex006)
-- [Exercício 07](https://vxgnxx.github.io/html-css/exercícios/ex007)
+- [Exercício 07](https://vxgnxx.github.io/html-css/exercícios/ex007/html5.html)
 - [Exercício 08](https://vxgnxx.github.io/html-css/exercícios/ex008)
 - [Exercício 09](https://vxgnxx.github.io/html-css/exercícios/ex009)
 - [Exercício 10](https://vxgnxx.github.io/html-css/exercícios/ex010)
