@@ -2,7 +2,6 @@
 
 <ul>
     <li><a href="https://vxgnxx.github.io/html-css/exercícios/ex001">Exercício 01</a></li>
-    <li>
     <li><a href="https://vxgnxx.github.io/html-css/exercícios/ex002">Exercício 02</a></li>
     <li><a href="https://vxgnxx.github.io/html-css/exercícios/ex003">Exercício 03</a></li>
     <li><a href="https://vxgnxx.github.io/html-css/exercícios/ex004">Exercício 04</a></li>
