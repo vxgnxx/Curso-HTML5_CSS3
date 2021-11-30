@@ -23,4 +23,15 @@
 - [Exercício 20](https://vxgnxx.github.io/html-css/exercícios/ex020)
 - [Exercício 21](https://vxgnxx.github.io/html-css/exercícios/ex021)
 
+## Desafios
+- [Exercício 01](https://vxgnxx.github.io/html-css/desafios/d001)
+- [Exercício 02](https://vxgnxx.github.io/html-css/desafios/d002)
+- [Exercício 03](https://vxgnxx.github.io/html-css/desafios/d003)
+- [Exercício 04](https://vxgnxx.github.io/html-css/desafios/d004)
+- [Exercício 05](https://vxgnxx.github.io/html-css/desafios/d005)
+- [Exercício 06](https://vxgnxx.github.io/html-css/desafios/d006)
+- [Exercício 07](https://vxgnxx.github.io/html-css/desafios/d007)
+- [Exercício 08](https://vxgnxx.github.io/html-css/desafios/d008)
+- [Exercício 09](https://vxgnxx.github.io/html-css/desafios/d009)
+
 *[Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).*
