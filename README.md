@@ -28,7 +28,6 @@
 - [Exercício 02](https://vxgnxx.github.io/html-css/desafios/d002)
 - [Exercício 03](https://vxgnxx.github.io/html-css/desafios/d003)
 - [Exercício 04](https://vxgnxx.github.io/html-css/desafios/d004)
-- [Exercício 05](https://vxgnxx.github.io/html-css/desafios/d005)
 - [Exercício 06](https://vxgnxx.github.io/html-css/desafios/d006)
 - [Exercício 07](https://vxgnxx.github.io/html-css/desafios/d007)
 - [Exercício 08](https://vxgnxx.github.io/html-css/desafios/d008)
