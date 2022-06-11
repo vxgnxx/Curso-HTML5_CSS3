@@ -1,5 +1,7 @@
 # Curso de HTML5 e CSS3
 
+- [Github pages](https://vxgnxx.github.io/html-css/)
+
 ## Exercícios
 
 - [Exercício 01](https://vxgnxx.github.io/html-css/exercícios/ex001)
