@@ -1,6 +1,6 @@
 # Curso de HTML5 e CSS3
 
-- [Github pages](https://vxgnxx.github.io/html-css/)
+[Github pages](https://vxgnxx.github.io/html-css/)
 
 ## Exercícios
 
